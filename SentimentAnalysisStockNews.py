@@ -1,4 +1,5 @@
 # %%
+
 from urllib.request import Request, urlopen
 
 import matplotlib.pyplot as plt
