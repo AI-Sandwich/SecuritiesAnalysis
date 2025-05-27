@@ -56,4 +56,5 @@ print(res_bs.summary())
 res_bs.plot_partial(0)
 
 gam_bs.get_robustcov_results()
+
 # %%
